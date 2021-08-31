@@ -1,0 +1,1 @@
+"./Base.obj" "./BaseAdc.obj" "./BaseCla.obj" "./BaseDac.obj" "./BaseECap.obj" "./BaseEPwm.obj" "./BaseGpio.obj" "./BaseInterrupts.obj" "./Base_main.obj" "./CodeStartBranch.obj" "./SineTable.obj" "./Watchdog.obj" "./device.obj" "./f28004x_globalvariabledefs.obj" "../F28004xBase.cmd" "../f28004x_headers_nonbios.cmd" -llibc.a -ldriverlib.lib 
