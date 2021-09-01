@@ -1,10 +1,14 @@
+// Mostly stolen from TI's TMS320F28004x lab class
+// -Justin Walraven, The Engineering Shop
+// 01SEP2021
+
 /**********************************************************************
 * File: ECap.c -- Solution File
 * Devices: TMS320F28004x
 * Author: C2000 Technical Training, Texas Instruments
 **********************************************************************/
 
-#include "Base.h"                          // Main include file
+#include <TPPFC.h>                          // Main include file
 
 
 /**********************************************************************

@@ -1,11 +1,16 @@
+// Mostly stolen from TI's TMS320F28004x lab class
+// -Justin Walraven, The Engineering Shop
+// 01SEP2021
+
+
 /**********************************************************************
 * File: ClaTasks.cla
 * Devices: TMS320F28004x
 * Author: C2000 Technical Training, Texas Instruments
 **********************************************************************/
 
+#include <TPPFC.h>                          // Main include file
 #include "f28004x_device.h"       // F28004x header file peripheral address definitions
-#include "Base.h"                          // Main include file
 
 
 /**********************************************************************

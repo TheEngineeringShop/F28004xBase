@@ -1,10 +1,14 @@
+// Mostly stolen from TI's TMS320F28004x lab class
+// -Justin Walraven, The Engineering Shop
+// 01SEP2021
+
 /**********************************************************************
 * File: Main_9.c -- File for Lab 9
 * Devices: TMS320F28004x
 * Author: C2000 Technical Training, Texas Instruments
 **********************************************************************/
 
-#include "Base.h"                          // Main include file
+#include <TPPFC.h>                          // Main include file
 
 //--- Global Variables
 uint16_t DEBUG_TOGGLE = 1;                // Used for realtime mode investigation test

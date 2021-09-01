@@ -7,8 +7,8 @@
  *      This file borrows heavily from "lab.h" from TI's TMS320F28004x lab course
  */
 
-#ifndef BASE_H_
-#define BASE_H_
+#ifndef TPPFC_H_
+#define TPPFC_H_
 
 
 //---------------------------------------------------------------------------
@@ -115,4 +115,4 @@ extern int QuadratureTable[SINE_PTS];
 
 
 
-#endif /* BASE_H_ */
+#endif /* TPPFC_H_ */
